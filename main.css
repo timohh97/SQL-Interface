@@ -1,0 +1,54 @@
+body
+{
+    text-align:center;
+    background-image:url("geometric.jpg");
+}
+
+
+#container
+{
+    margin: 0 auto;
+  width:80%;
+  font-size:x-large;
+  margin-top:250px;
+  background-color:orange;
+  text-align:center;
+}
+
+
+
+form
+{
+    margin-top:100px;
+    margin-bottom:-200px;
+}
+
+input
+{
+    font-size:x-large;
+}
+
+button
+{
+    font-size:x-large;
+    background-color:lightcoral;
+    color:white;
+}
+
+#loginform
+{
+    margin-left:600px;
+
+}
+
+
+#updateform
+{
+    margin-top:70px;
+    margin-right:650px;
+}
+
+#deleteform
+{
+   margin-top:250px; 
+}
